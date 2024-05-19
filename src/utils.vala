@@ -64,7 +64,9 @@ public string get_time_difference_message (double offset) {
     }
 
     // Translators: The time is the same as the local time
-    var message = _("Current timezone");
+    string[] messages = new string[4] {"IT'S RIZZ O'CLOCK 🗣", "IT'S SKIBIDI TIME 🚽", "IT'S MEWING TIME 🧏‍♂️", "IT'S ABOUT GRIMACE SHAKE 🍾"};
+    int brainrotMessage = Random.int_range (0, 4);
+    var message = messages[brainrotMessage];
 
     if (diff > 0) {
         // Translators: The (possibly fractical) number hours in the past

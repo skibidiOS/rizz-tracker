@@ -551,7 +551,7 @@ msgstr "Timer countdown finished"
 #. Translators: The time is the same as the local time
 #: src/utils.vala:67
 msgid "Current timezone"
-msgstr "Current timezone"
+msgstr "IT'S RIZZ O'CLOCK 🗣"
 
 #. Translators: The (possibly fractical) number hours in the past
 #. (relative to local) the clock/location is
