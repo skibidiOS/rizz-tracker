@@ -242,9 +242,9 @@ public class Window : Adw.ApplicationWindow {
 
         var about = new Adw.AboutWindow () {
             transient_for = this,
-            application_name = _("Clocks"),
+            application_name = "rizz tracker",
             application_icon = Config.APP_ID,
-            developer_name = _("The GNOME Project"),
+            developer_name = "skibidiOS Team",
             version = Config.VERSION,
             copyright = COPYRIGHT,
             developers = DEVELOPERS,

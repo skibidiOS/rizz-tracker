@@ -1,7 +1,6 @@
-# GNOME Clocks
+# Rizz tracker
 
-A simple clock application for GNOME. It includes world clocks, alarms,
-a stopwatch and a timer.
+Bro, this is the best app for tracking rizz time and skibidi time, only for skibdios, only gyatts use this
 
 <a href='https://flathub.org/apps/details/org.gnome.clocks'><img width='190px' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-i-en.png'/></a>
 
